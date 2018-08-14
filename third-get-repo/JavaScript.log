@@ -1,5 +1,6 @@
 var txt = "";
 var numbers = [4, 9, 16, 25];
+var numbers = [6,8,9,];
 numbers.forEach(myFunction);
 
 function myFunction(value, index, array) {
